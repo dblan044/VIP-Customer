@@ -1,11 +1,3 @@
-import java.util.*;
-import java.text.*;
-import java.math.BigDecimal;
-import java.text.NumberFormat;
-import java.io.File;
-import java.util.Vector;
-import java.util.Enumeration;
-
 public class Main { 
     public static void main(String[] args) {
         VipCustomer acc = new VipCustomer();
